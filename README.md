@@ -104,7 +104,7 @@ cargo test
 - [Pallas Documentation](https://docs.rs/pallas/latest/pallas/)
 - [Pallas GitHub](https://github.com/txpipe/pallas)
 - [Cardano Developer Documentation](https://developers.cardano.org/)
-- [Ouroboros Protocol Documentation](https://docs.cardano.org/learn/)
+- [Ouroboros Protocol Documentation](https://docs.cardano.org/about-cardano/learn/cardano-node)
 
 ## 🤝 Contributing
 
