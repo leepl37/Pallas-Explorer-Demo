@@ -105,7 +105,6 @@ cargo test
 - [Pallas GitHub](https://github.com/txpipe/pallas)
 - [Cardano Developer Documentation](https://developers.cardano.org/)
 - [Ouroboros Protocol Documentation](https://docs.cardano.org/about-cardano/learn/cardano-node)
-
 ## 🤝 Contributing
 
 This is an educational demo project. Feel free to:
