@@ -104,7 +104,7 @@ cargo test
 - [Pallas Documentation](https://docs.rs/pallas/latest/pallas/)
 - [Pallas GitHub](https://github.com/txpipe/pallas)
 - [Cardano Developer Documentation](https://developers.cardano.org/)
-- [Ouroboros Protocol Specification](https://github.com/Cardano-NFTs/Ouroboros-Network-Protocol)
+- [Ouroboros Protocol Documentation](https://docs.cardano.org/learn/)
 
 ## 🤝 Contributing
 
@@ -120,4 +120,3 @@ Licensed under Apache-2.0 (same as Pallas).
 
 ---
 
-**Built with ❤️ using the Pallas Cardano Rust library**
