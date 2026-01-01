@@ -1,0 +1,16 @@
+/Users/tony/Rust/cardano_pallas/target/debug/deps/pbjson_types-f1be43d58a69b5b3.d: /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/lib.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/duration.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/list_value.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/null_value.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/struct.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/timestamp.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/value.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/wrappers.rs /Users/tony/Rust/cardano_pallas/target/debug/build/pbjson-types-924b5f8e8fe419ee/out/google.protobuf.rs /Users/tony/Rust/cardano_pallas/target/debug/build/pbjson-types-924b5f8e8fe419ee/out/google.protobuf.serde.rs
+
+/Users/tony/Rust/cardano_pallas/target/debug/deps/libpbjson_types-f1be43d58a69b5b3.rmeta: /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/lib.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/duration.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/list_value.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/null_value.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/struct.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/timestamp.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/value.rs /Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/wrappers.rs /Users/tony/Rust/cardano_pallas/target/debug/build/pbjson-types-924b5f8e8fe419ee/out/google.protobuf.rs /Users/tony/Rust/cardano_pallas/target/debug/build/pbjson-types-924b5f8e8fe419ee/out/google.protobuf.serde.rs
+
+/Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/lib.rs:
+/Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/duration.rs:
+/Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/list_value.rs:
+/Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/null_value.rs:
+/Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/struct.rs:
+/Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/timestamp.rs:
+/Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/value.rs:
+/Users/tony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pbjson-types-0.7.0/src/wrappers.rs:
+/Users/tony/Rust/cardano_pallas/target/debug/build/pbjson-types-924b5f8e8fe419ee/out/google.protobuf.rs:
+/Users/tony/Rust/cardano_pallas/target/debug/build/pbjson-types-924b5f8e8fe419ee/out/google.protobuf.serde.rs:
+
+# env-dep:OUT_DIR=/Users/tony/Rust/cardano_pallas/target/debug/build/pbjson-types-924b5f8e8fe419ee/out

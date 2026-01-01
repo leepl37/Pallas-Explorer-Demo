@@ -1,0 +1,26 @@
+[package]
+name = "pallas_explorer_demo"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+publish = false
+
+[dependencies]
+anyhow = "1.0"
+hex = "0.4"
+rand = "0.8"
+tokio = { version = "1.37", features = ["full"] }
+
+# Pallas crates that map to the topics we reviewed. Versions are aligned
+# across the workspace; feel free to bump to the latest available on crates.io.
+pallas-codec = "0.34"
+pallas-primitives = "0.34"
+pallas-crypto = "0.34"
+pallas-addresses = "0.34"
+pallas-txbuilder = "0.34"
+pallas-traverse = "0.34"
+pallas-network = "0.34"
+pallas-hardano = "0.34"
+pallas-math = "0.34"
+pallas-utxorpc = "0.34"
+
